@@ -62,5 +62,5 @@ The Financial News and Stock Price Integration Dataset (FNSPID) contains:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/dagiteferi/Financial-News-Sentiment-Stock-Market-Correlation-Analysis.git
    cd your-repository
