@@ -72,15 +72,29 @@ pip install -r requirements.txt
 ** Contributing**
 Contributions are welcome! Please fork the repository and use a feature branch. Pull requests are warmly welcomed.
 
-Fork the Project
+### How to Contribute
 
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
+1. **Fork the repository**: Click the "Fork" button at the top right of this page to create your own copy of the repository.
+2. **Clone your fork**: Clone the forked repository to your local machine.
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   ```
+3. **Create a new branch**: Create a new branch for your feature or bugfix.
+   ```bash
+   git checkout -b feature/your-feature
+   ```
+4. **Make your changes**: Implement your feature or fix the bug. Ensure your code adheres to the project's coding standards and style.
+5. **Commit your changes**: Commit your changes with a descriptive message.
+   ```bash
+   git add .
+   git commit -m 'Add new feature or fix bug'
+   ```
+6. **Push your branch**: Push your branch to your forked repository.
+   ```bash
+   git push origin feature/your-feature
+   ```
+7. **Create a Pull Request**: Go to the repository on GitHub, switch to your branch, and click the `New Pull Request` button. Provide a detailed description of your changes and submit the pull request.
 
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Push to the Branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
 
 
 
