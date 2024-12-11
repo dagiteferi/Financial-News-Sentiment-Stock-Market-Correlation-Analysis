@@ -81,19 +81,24 @@ Contributions are welcome! Please fork the repository and use a feature branch. 
    ```
 3. **Create a new branch**: Create a new branch for your feature or bugfix.
    ```bash
-   git checkout -b feature/your-feature
+   git checkout -b feature/AmazingFeature
    ```
 4. **Make your changes**: Implement your feature or fix the bug. Ensure your code adheres to the project's coding standards and style.
 5. **Commit your changes**: Commit your changes with a descriptive message.
    ```bash
    git add .
-   git commit -m 'Add new feature or fix bug'
+   git commit -m 'Add some AmazingFeature'
    ```
 6. **Push your branch**: Push your branch to your forked repository.
    ```bash
-   git push origin feature/your-feature
+   git push origin feature/AmazingFeature
    ```
 7. **Create a Pull Request**: Go to the repository on GitHub, switch to your branch, and click the `New Pull Request` button. Provide a detailed description of your changes and submit the pull request.
+
+
+
+**License**
+Distributed under the MIT License. See LICENSE for more information.
 
 
 
