@@ -65,38 +65,8 @@ The Financial News and Stock Price Integration Dataset (FNSPID) contains:
    git clone https://github.com/dagiteferi/Financial-News-Sentiment-Stock-Market-Correlation-Analysis.git
    cd Financial-News-Sentiment-Stock-Market-Correlation-Analysis
 
-Install Dependencies:
-bash
+2. **Install Dependencies**:
+ ```bash
 pip install -r requirements.txt
-Usage
-Run the Exploratory Data Analysis (EDA) Script:
-bash
-python eda_script.py
-Run the Quantitative Analysis Script:
-bash
-python quantitative_analysis.py
-Generate Reports:
-Ensure all scripts are run and outputs are generated in the reports/ directory.
 
-Contributing
-Contributions are welcome! Please fork the repository and use a feature branch. Pull requests are warmly welcomed.
 
-Fork the Project
-
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Push to the Branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-License
-Distributed under the MIT License. See LICENSE for more information.
-
-Acknowledgements
-Nova Financial Insights for providing the dataset.
-
-The open-source community for various Python libraries used in this project.
-
-My mentors and peers for their support and feedback.
