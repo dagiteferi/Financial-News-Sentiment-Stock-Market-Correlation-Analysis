@@ -66,7 +66,28 @@ The Financial News and Stock Price Integration Dataset (FNSPID) contains:
    cd Financial-News-Sentiment-Stock-Market-Correlation-Analysis
 
 2. **Install Dependencies**:
- ```bash
+```bash
 pip install -r requirements.txt
+```
+** Contributing**
+Contributions are welcome! Please fork the repository and use a feature branch. Pull requests are warmly welcomed.
 
+Fork the Project
+
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+
+Push to the Branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+
+
+
+
+
+
+
+  
 
