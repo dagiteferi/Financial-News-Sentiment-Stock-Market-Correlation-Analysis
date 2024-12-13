@@ -12,7 +12,7 @@ This project focuses on the detailed analysis of financial news sentiment and it
 6. [Usage](#usage)
 7. [Contributing](#contributing)
 8. [License](#license)
-9. [Acknowledgements](#acknowledgements)
+
 
 ## Project Overview
 
