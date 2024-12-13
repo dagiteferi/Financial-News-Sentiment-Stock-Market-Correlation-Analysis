@@ -1,5 +1,7 @@
 import sys
 import os
+import matplotlib.pyplot as plt
+import seaborn as sns
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from src.dataload import load_data, preprocess_data
@@ -12,9 +14,13 @@ from src.data_visualization import (
 )
 
 # Load and preprocess the data
-filepath = 'C:\Users\Dagi\Documents\KAIM\Week 1\Financial-News-Sentiment-Stock-Market-Correlation-Analysis\data/raw_analyst_ratings.csv'
+filepath = r'C:\Users\Dagi\Documents\KAIM\Week 1\Financial-News-Sentiment-Stock-Market-Correlation-Analysis\data/raw_analyst_ratings.csv'
 data = load_data(filepath)
 data = preprocess_data(data)
+
+# def add_sentiment(df):
+#     df['sentiment'] = df['headline'].apply(lambda x: TextBlob(x).sentiment.polarity)
+#     return df
 
 # Analyze the data
 get_basic_info(data)
