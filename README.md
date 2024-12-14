@@ -1,17 +1,27 @@
+<<<<<<< HEAD
 # Financial News Sentiment and Stock Market Correlation Analysis
 
 This project focuses on the detailed analysis of financial news sentiment and its correlation with stock market movements. By leveraging natural language processing (NLP) techniques, sentiment analysis, and advanced financial analytics, this analysis aims to uncover meaningful insights that can enhance financial forecasting accuracy. The ultimate goal is to develop innovative strategies that utilize news sentiment as a predictive tool for stock market trends.
+=======
+# Financial News Sentiment and Stock Market Correlation Analysis - Task 1
+
+This branch focuses on **Task 1: Exploratory Data Analysis (EDA)**, where we perform initial analysis on the financial news dataset to uncover insights and set the foundation for further analysis.
+>>>>>>> task-1
 
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Business Objective](#business-objective)
 3. [Dataset Overview](#dataset-overview)
+<<<<<<< HEAD
 4. [Tasks and Deliverables](#tasks-and-deliverables)
 5. [Installation](#installation)
 6. [Usage](#usage)
 7. [Contributing](#contributing)
 8. [License](#license)
+=======
+4. [Task 1 Overview](#task-1-overview)
+>>>>>>> task-1
 
 
 ## Project Overview
@@ -34,6 +44,7 @@ The Financial News and Stock Price Integration Dataset (FNSPID) contains:
 - **date**: Publication date and time.
 - **stock**: Stock ticker symbol.
 
+<<<<<<< HEAD
 ## Tasks and Deliverables
 
 ### Week 1:
@@ -109,4 +120,20 @@ Distributed under the MIT License. See LICENSE for more information.
 
 
   
+
+=======
+## Task 1 Overview
+
+### Task 1: Exploratory Data Analysis (EDA)
+
+- **Descriptive Statistics**: Calculate basic statistics such as headline length, article counts per publisher, and publication dates.
+- **Text Analysis**: Perform sentiment analysis on headlines and identify common keywords or phrases.
+- **Time Series Analysis**: Analyze the frequency of article publication over time and identify trends.
+- **Publisher Analysis**: Identify top publishers and analyze their reporting patterns.
+
+### Deliverables for Task 1:
+
+- **EDA Report**: Summary of initial findings and insights from the exploratory data analysis.
+
+
 
