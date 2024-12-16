@@ -5,9 +5,9 @@ import os
 src_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../src'))
 sys.path.append(src_path)
 
-import preprocessing as dp
-import indicat as ind
-import visual as vis
+import data_preprocessing as dp
+import indicators as ind
+import visualization as vis
 
 # Example usage
 def main():
