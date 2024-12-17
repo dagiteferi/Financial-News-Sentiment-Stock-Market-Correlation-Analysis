@@ -12,14 +12,13 @@ This branch focuses on **Task 1: Exploratory Data Analysis (EDA)**, where we per
 1. [Project Overview](#project-overview)
 2. [Business Objective](#business-objective)
 3. [Dataset Overview](#dataset-overview)
-   <<<<<<< HEAD
 4. [Tasks and Deliverables](#tasks-and-deliverables)
 5. [Installation](#installation)
 6. [Usage](#usage)
 7. [Contributing](#contributing)
 8. # [License](#license)
 9. [Task 1 Overview](#task-1-overview)
-   > > > > > > > task-1
+   
 
 ## Project Overview
 
@@ -43,7 +42,7 @@ The Financial News and Stock Price Integration Dataset (FNSPID) contains:
 - **date**: Publication date and time.
 - **stock**: Stock ticker symbol.
 
-<<<<<<< HEAD
+
 
 ## Tasks and Deliverables
 
