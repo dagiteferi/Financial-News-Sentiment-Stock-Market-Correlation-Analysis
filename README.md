@@ -1,4 +1,4 @@
-# Financial News Sentiment and Stock Market Correlation Analysis
+# Financial News Sentiment and Stock Market Correlation Analysis#
 
 # This project focuses on the detailed analysis of financial news sentiment and its correlation with stock market movements. By leveraging natural language processing (NLP) techniques, sentiment analysis, and advanced financial analytics, this analysis aims to uncover meaningful insights that can enhance financial forecasting accuracy. The ultimate goal is to develop innovative strategies that utilize news sentiment as a predictive tool for stock market trends.
 
