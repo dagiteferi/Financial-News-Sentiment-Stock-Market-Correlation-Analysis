@@ -1,12 +1,12 @@
 # Financial News Sentiment and Stock Market Correlation Analysis
 
-# This project focuses on the detailed analysis of financial news sentiment and its correlation with stock market movements. By leveraging natural language processing (NLP) techniques, sentiment analysis, and advanced financial analytics, this analysis aims to uncover meaningful insights that can enhance financial forecasting accuracy. The ultimate goal is to develop innovative strategies that utilize news sentiment as a predictive tool for stock market trends.
+This project focuses on the detailed analysis of financial news sentiment and its correlation with stock market movements. By leveraging natural language processing (NLP) techniques, sentiment analysis, and advanced financial analytics, this analysis aims to uncover meaningful insights that can enhance financial forecasting accuracy. The ultimate goal is to develop innovative strategies that utilize news sentiment as a predictive tool for stock market trends.
 
 # Financial News Sentiment and Stock Market Correlation Analysis - Task 1
 
 This branch focuses on **Task 1: Exploratory Data Analysis (EDA)**, where we perform initial analysis on the financial news dataset to uncover insights and set the foundation for further analysis.
 
-> > > > > > > task-1
+
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ This branch focuses on **Task 1: Exploratory Data Analysis (EDA)**, where we per
 7. [Contributing](#contributing)
 8. # [License](#license)
 9. [Task 1 Overview](#task-1-overview)
-   > > > > > > > task-1
+  
 
 ## Project Overview
 
@@ -44,7 +44,7 @@ The Financial News and Stock Price Integration Dataset (FNSPID) contains:
 - **date**: Publication date and time.
 - **stock**: Stock ticker symbol.
 
-<<<<<<< HEAD
+
 
 ## Tasks and Deliverables
 
