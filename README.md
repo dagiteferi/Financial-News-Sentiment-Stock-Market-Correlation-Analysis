@@ -7,11 +7,6 @@ This project focuses on the detailed analysis of financial news sentiment and it
 
 This branch focuses on **Task 1: Exploratory Data Analysis (EDA)**, where we perform initial analysis on the financial news dataset to uncover insights and set the foundation for further analysis.
 
-<<<<<<< HEAD
-> > > > > > > task-1
-=======
-
->>>>>>> 75b8ddec67855e42e8883901add92c90a3b5b26b
 
 ## Table of Contents
 
@@ -25,11 +20,7 @@ This branch focuses on **Task 1: Exploratory Data Analysis (EDA)**, where we per
 7. [Contributing](#contributing)
 8. # [License](#license)
 9. [Task 1 Overview](#task-1-overview)
-<<<<<<< HEAD
-   > > > > > > > task-1
-=======
-  
->>>>>>> 75b8ddec67855e42e8883901add92c90a3b5b26b
+
 
 ## Project Overview
 
@@ -53,11 +44,7 @@ The Financial News and Stock Price Integration Dataset (FNSPID) contains:
 - **date**: Publication date and time.
 - **stock**: Stock ticker symbol.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
->>>>>>> 75b8ddec67855e42e8883901add92c90a3b5b26b
 
 ## Tasks and Deliverables
 
