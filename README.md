@@ -13,7 +13,7 @@ This branch focuses on **Task 1: Exploratory Data Analysis (EDA)**, where we per
 1. [Project Overview](#project-overview)
 2. [Business Objective](#business-objective)
 3. [Dataset Overview](#dataset-overview)
-   <<<<<<< HEAD
+  
 4. [Tasks and Deliverables](#tasks-and-deliverables)
 5. [Installation](#installation)
 6. [Usage](#usage)
