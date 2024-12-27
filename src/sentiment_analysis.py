@@ -1,14 +1,12 @@
 
+import pandas as pd
 from textblob import TextBlob
 
-def add_sentiment(data):
-    data['sentiment'] = data['headline'].apply(lambda x: TextBlob(x).sentiment.polarity)
-    return data
+def analyze_sentiment(text):
+    analysis = TextBlob(text)
+    return analysis.sentiment.polarity
 
-def get_top_headlines(data, sentiment_threshold=0.5, top_n=10, positive=True):
-    if positive:
-        filtered_headlines = data[data['sentiment'] > sentiment_threshold]
-    else:
-        filtered_headlines = data[data['sentiment'] < sentiment_threshold]
-    
-    return filtered_headlines.sort_values(by='sentiment', ascending=False).head(top_n)
+def aggregate_sentiments_by_date(df, date_column='date', sentiment_column='sentiment', output_column='Average Sentiment'):
+    daily_sentiment = df.groupby(date_column)[sentiment_column].mean().reset_index()
+    daily_sentiment.columns = [date_column, output_column]
+    return daily_sentiment
